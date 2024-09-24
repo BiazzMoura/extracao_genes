@@ -13,8 +13,8 @@ Este projeto contém um script Python desenvolvido para extrair genes housekeepi
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu_usuario/seu_repositorio.git
-    cd seu_repositorio
+    git clone https://github.com/BiazzMoura/extracao_genes.git
+    cd extracao_genes
     ```
 
 2. Instale as dependências necessárias:
